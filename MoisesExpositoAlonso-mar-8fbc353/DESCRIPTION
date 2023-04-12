@@ -1,0 +1,11 @@
+Package: mar
+Type: Package
+Version: 0.0.1
+Date: 2021-12-01
+Author: Moi Exposito-Alonso
+Maintainer: Moi Exposito-Alonso <moisesexpositoalonso@gmail.com>
+Description: Fitting Mutations-Area Relationships using population genomic samples of a species.
+License: MIT License
+Imports: Rcpp (>= 1.0.6)
+LinkingTo: Rcpp, RcppArmadillo
+SystemRequirements: C++11
